@@ -1,0 +1,32 @@
+_repo: Esther---a-book-for-girls_6850
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Carey, Rosa Nouchette
+    alias: Carey, R. Nouchette (Rosa Nouchette)
+    birthdate: 1840
+    deathdate: 1909
+    gutenberg_agent_id: '1352'
+    url: http://www.gutenberg.org/2009/agents/1352
+    wikipedia: https://en.wikipedia.org/wiki/Rosa_Nouchette_Carey
+description: '"Esther" is a very nice English story of a young girl who becomes a
+  governess and is so sweet and amiable that all love her. Esther is a beautiful English
+  girl who is introduced to the reader just as she graduates from a fashionable boarding
+  school at the age of 17. She is a thoroughly good and unselfish girl - a ''nice''
+  girl.  The story is pure, bright, natural, and entertaining.'
+gutenberg_issued: '2004-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6850'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'England -- Social life and customs -- 19th century -- Fiction'
+- !lcsh 'Governesses -- Fiction'
+- !lcsh 'Young women -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: 'Esther : a book for girls'
+url: http://www.gutenberg.org/ebooks/6850
